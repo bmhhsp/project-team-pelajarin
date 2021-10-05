@@ -1,9 +1,4 @@
-# project-team-pelajarin
-
-<b>APA YANG PERLU ANDA LAKUKAN :</b>
-
-<br><br>
-
+# APA YANG PERLU ANDA LAKUKAN
 <ul>
   <li>Pilih Tim mana aja dan Ketikkan nama asli Anda di tim manapun selama tim tersebut masih ada slot kosong (maks. 5 orang per tim)</li>
   <li>JANGAN MENGGANTI NAMA ORANG LAIN, JANGAN MEMBUAT TAB BARU</li>
@@ -11,19 +6,17 @@
   <li>Cantumkan link grup telegram di kolom C sebelah nama Grup Anda</li>
 </ul>
 
-<br><br>
+<br>
 
 Dengan ini akan sangat mempermudah Anda untuk saling mencari satu sama lain.
 
-<br><br>
+<br>
 
 <b>Jangan tunggu-tungguan! Berinisiatif-lah untuk mencari  dan bergabung bersama rekan tim Anda!</b>
 
-<br><br>
+<br>
 
-<b>YANG AKAN ANDA BUAT :</b>
-
-<br><br>
+#YANG AKAN ANDA BUAT :
 
 Membuat halaman web modern, responsif, dan bertema bebas!
 Tujuan dari proyek ini adalah untuk membuat halaman web bebas (contoh: profil perusahaan, halaman tour & travel, halaman jual-beli, halaman profil tim atau sebagainya) tanpa arahan dan atau instruksi apapun.
