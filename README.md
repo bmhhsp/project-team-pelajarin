@@ -31,7 +31,7 @@ Dengan ini akan sangat mempermudah Anda untuk saling mencari satu sama lain.
 # YANG AKAN ANDA BUAT
 
 <b>Membuat halaman web modern, responsif, dan bertema bebas!</b>
-<0l>
+<ol>
   <li>Tujuan dari proyek ini adalah untuk membuat halaman web bebas (contoh: profil perusahaan, halaman tour & travel, halaman jual-beli, halaman profil tim atau sebagainya) tanpa arahan dan atau instruksi apapun.</li>
   <li>
     Untuk dinyatakan “PASS”, Halaman Web Anda harus memiliki 6 komponen:
