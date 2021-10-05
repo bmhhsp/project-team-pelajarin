@@ -1,3 +1,16 @@
+# TUJUAN
+<ul>
+  <li>Untuk mempraktikkan langsung pembangunan halaman web bertema bebas.</li>
+  <li>
+    Melatih 3 soft skill penting:
+    <ul>
+      <li>Komitmen terhadap rekan kelompok,</li>
+      <li>Komunikasi,</li>
+      <li>Komitmen terhadap deadline</li>
+    </ul>
+  </li>
+</ul>
+
 # APA YANG PERLU ANDA LAKUKAN
 <ul>
   <li>Masuk ke link berikut untuk memasukkan Nama Anda</li>
