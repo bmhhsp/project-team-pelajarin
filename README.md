@@ -1,4 +1,6 @@
-# TUJUAN
+# Briefing Proyek Tim Coding Bootcamp - Proyek Tim HTML & CSS
+
+### Tujuan
 <ol>
   <li>Untuk mempraktikkan langsung pembangunan halaman web bertema bebas.</li>
   <li>
@@ -11,7 +13,9 @@
   </li>
 </ol>
 
-# APA YANG PERLU ANDA LAKUKAN
+<br>
+
+### APA YANG PERLU ANDA LAKUKAN
 <ol>
   <li>Masuk ke link berikut untuk memasukkan Nama Anda</li>
   <li>Pilih Tim mana aja dan Ketikkan nama asli Anda di tim manapun selama tim tersebut masih ada slot kosong (maks. 5 orang per tim)</li>
@@ -20,18 +24,14 @@
   <li>Cantumkan link grup telegram di kolom C sebelah nama Grup Anda</li>
 </ol>
 
-<br>
-
 Dengan ini akan sangat mempermudah Anda untuk saling mencari satu sama lain.
-
 <b>Jangan tunggu-tungguan! Berinisiatif-lah untuk mencari  dan bergabung bersama rekan tim Anda!</b>
 
 <br>
 
-# YANG AKAN ANDA BUAT
+### YANG AKAN ANDA BUAT
 
-<b>Membuat halaman web modern, responsif, dan bertema bebas!</b>
-<ol>
+<b>Membuat halaman web modern, responsif, dan bertema bebas!</b><ol>
   <li>Tujuan dari proyek ini adalah untuk membuat halaman web bebas (contoh: profil perusahaan, halaman tour & travel, halaman jual-beli, halaman profil tim atau sebagainya) tanpa arahan dan atau instruksi apapun.</li>
   <li>
     Untuk dinyatakan “PASS”, Halaman Web Anda harus memiliki 6 komponen:
@@ -69,7 +69,9 @@ Dengan ini akan sangat mempermudah Anda untuk saling mencari satu sama lain.
   </li>
 </ol>
 
-# KETENTUAN
+<br>
+
+### Ketentuan
 
 <ol>
   <li>Dilarang menggunakan framework apapun</li>
